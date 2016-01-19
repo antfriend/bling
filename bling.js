@@ -1,7 +1,7 @@
 //
 // for all your console bling needs
 //
-var pak = require('./package.json');
+
 exports.hr = function(char, this_many) {
   console.log(this.repeatSoMany(char, this_many));
 };
@@ -39,4 +39,4 @@ exports.style1 = function(a_string) {
 //usage example
 var b = this;
 b.style1('BLING! by antfriend');
-b.box('version:' + pak.version, '*',3);
+b.box('enjoy!', '*',3);
