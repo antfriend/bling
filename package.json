@@ -1,0 +1,25 @@
+{
+  "name": "bling",
+  "version": "1.0.0",
+  "description": "\"Console bling to fancy-up your logs and response text.\"",
+  "main": "bling.js",
+  "scripts": {
+    "test": "node bling testing123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfriend/bling.git"
+  },
+  "keywords": [
+    "fancy",
+    "console",
+    "log",
+    "decoration"
+  ],
+  "author": "antfriend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antfriend/bling/issues"
+  },
+  "homepage": "https://github.com/antfriend/bling#readme"
+}
