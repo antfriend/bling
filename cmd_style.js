@@ -38,5 +38,5 @@ exports.style1 = function(a_string) {
 
 //usage example
 var b = this;
-b.style1('BLING! by antfriend');
+b.style1('cmd_style! by antfriend');
 b.box('enjoy!', '*',3);

@@ -1,10 +1,10 @@
 {
-  "name": "bling",
+  "name": "cmd_style",
   "version": "1.0.0",
   "description": "\"Console bling to fancy-up your logs and response text.\"",
-  "main": "bling.js",
+  "main": "cmd_style.js",
   "scripts": {
-    "test": "node bling testing123"
+    "test": "node cmd_style testing123"
   },
   "repository": {
     "type": "git",
