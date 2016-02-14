@@ -1,7 +1,7 @@
 {
   "name": "cmd_style",
-  "version": "1.0.1",
-  "description": "\"Console bling to fancy-up your logs and response text.\"",
+  "version": "1.1.0",
+  "description": "\"console ascii bling to fancy-up your logs and response text.\"",
   "main": "cmd_style.js",
   "scripts": {
     "test": "node cmd_style testing123"
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/antfriend/bling.git"
   },
   "keywords": [
+    "ascii",
     "fancy",
     "console",
     "log",
