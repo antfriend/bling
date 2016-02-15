@@ -1,26 +1,26 @@
 {
-  "name": "cmd_style",
-  "version": "1.1.0",
-  "description": "\"console ascii bling to fancy-up your logs and response text.\"",
-  "main": "cmd_style.js",
-  "scripts": {
-    "test": "node cmd_style testing123"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/antfriend/bling.git"
-  },
-  "keywords": [
-    "ascii",
-    "fancy",
-    "console",
-    "log",
-    "decoration"
-  ],
-  "author": "antfriend",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/antfriend/bling/issues"
-  },
-  "homepage": "https://github.com/antfriend/bling#readme"
+    "name": "cmd_style",
+    "version": "1.1.0",
+    "description": "\"console ascii bling to fancy-up your logs and response text.\"",
+    "main": "cmd_style.js",
+    "scripts": {
+        "test": "node cmd_style test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/antfriend/bling.git"
+    },
+    "keywords": [
+        "ascii",
+        "fancy",
+        "console",
+        "log",
+        "decoration"
+    ],
+    "author": "antfriend",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/antfriend/bling/issues"
+    },
+    "homepage": "https://github.com/antfriend/bling#readme"
 }
