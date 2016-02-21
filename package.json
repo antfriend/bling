@@ -1,7 +1,7 @@
 {
     "name": "cmd_style",
     "version": "1.1.1",
-    "description": "\"console ascii bling to fancy-up your logs and response text.\"",
+    "description": "console ascii bling to fancy-up your logs and response text.",
     "main": "cmd_style.js",
     "scripts": {
         "test": "node cmd_style test"
