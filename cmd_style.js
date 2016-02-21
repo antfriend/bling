@@ -176,10 +176,9 @@ function test(b) {
 }
 
 function cmd_test_startup(me) {
-
     var c = process.argv;
     if (c.length > 2) {
-        if (c[2] === 'test') {
+        if (c[2] === 'test') { //if started from the command line with the argument 'test' then the sample test script will run
             test(me);
         }
     }

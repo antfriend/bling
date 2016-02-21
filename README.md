@@ -4,9 +4,9 @@
 
 Console bling to fancy up your logs and response text.
 
-
 useage:
 >npm install cmd_style
+>node cmd_style test
 
 example code:
 ```javascript
